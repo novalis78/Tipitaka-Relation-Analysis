@@ -1,0 +1,354 @@
+﻿Percentage:	10		 ``seyyathāpi , mahārāja, puriso iṇaṃ ādāya  kammante payojeyya (Sīlakkhandhavaggapāḷi)
+Percentage:	8		 ``seyyathāpi, mahārāja, puriso bandhanāgāre  baddho assa (Sīlakkhandhavaggapāḷi)
+Percentage:	10		  seyyathā vā pana, mahārāja, puriso asiṃ kosiyā pavāheyya (Sīlakkhandhavaggapāḷi)
+Percentage:	10		 seyyathā vā pana, mahārāja,  puriso ahiṃ karaṇḍā uddhareyya (Sīlakkhandhavaggapāḷi)
+Percentage:	7		 pathaviyāpi  ummujjanimujjaṃ karoti seyyathāpi udake (Sīlakkhandhavaggapāḷi)
+Percentage:	9		 ākāsepi   pallaṅkena kamati seyyathāpi pakkhī sakuṇo (Sīlakkhandhavaggapāḷi)
+Percentage:	7		  pathaviyāpi ummujjanimujjaṃ karoti seyyathāpi udake (Sīlakkhandhavaggapāḷi)
+Percentage:	7		 udakepi  abhijjamāne gacchati seyyathāpi pathaviyā (Sīlakkhandhavaggapāḷi)
+Percentage:	8		 ākāsepi pallaṅkena  kamati seyyathāpi pakkhī sakuṇo (Sīlakkhandhavaggapāḷi)
+Percentage:	7		 ``seyyathāpi , mahārāja, puriso  addhānamaggappaṭipanno (Sīlakkhandhavaggapāḷi)
+Percentage:	7		 ``seyyathāpi, mahārāja, majjhe siṅghāṭake  pāsādo (Sīlakkhandhavaggapāḷi)
+Percentage:	10		 ``seyyathāpi, poṭṭhapāda, puriso cātumahāpathe  nisseṇiṃ kareyya pāsādassa ārohaṇāya (Sīlakkhandhavaggapāḷi)
+Percentage:	9		 ``seyyathāpi, māṇava, puriso iṇaṃ ādāya  kammante payojeyya (Sīlakkhandhavaggapāḷi)
+Percentage:	8		 ``seyyathāpi, māṇava, puriso bandhanāgāre  baddho assa (Sīlakkhandhavaggapāḷi)
+Percentage:	7		
+ ``seyyathāpi , māṇava, udakarahado gambhīro ubbhidodako (Sīlakkhandhavaggapāḷi)
+Percentage:	8		
+ ``seyyathāpi , māṇava, puriso muñjamhā īsikaṃ pavāheyya (Sīlakkhandhavaggapāḷi)
+Percentage:	10		 seyyathā vā pana,  māṇava, puriso asiṃ kosiyā pavāheyya (Sīlakkhandhavaggapāḷi)
+Percentage:	10		 seyyathā vā pana, māṇava, puriso ahiṃ  karaṇḍā uddhareyya (Sīlakkhandhavaggapāḷi)
+Percentage:	7		  pathaviyāpi ummujjanimujjaṃ karoti, seyyathāpi udake (Sīlakkhandhavaggapāḷi)
+Percentage:	7		 udakepi  abhijjamāne gacchati seyyathāpi pathaviyaṃ (Sīlakkhandhavaggapāḷi)
+Percentage:	8		 ākāsepi pallaṅkena  kamati seyyathāpi pakkhī sakuṇo (Sīlakkhandhavaggapāḷi)
+Percentage:	6		 seyyathāpi,  māṇava, puriso addhānamaggappaṭipanno (Sīlakkhandhavaggapāḷi)
+Percentage:	3		 seyyathāpi nāma (Sīlakkhandhavaggapāḷi)
+Percentage:	9		 santānanda, sattā  ekattakāyā nānattasaññino, seyyathāpi devā ābhassarā (Mahāvaggapāḷi)
+Percentage:	9		 santānanda, sattā ekattakāyā  ekattasaññino, seyyathāpi devā subhakiṇhā (Mahāvaggapāḷi)
+Percentage:	10		  seyyathāpi nāma umāpupphaṃ nīlaṃ nīlavaṇṇaṃ nīlanidassanaṃ  nīlanibhāsaṃ (Mahāvaggapāḷi)
+Percentage:	9		 seyyathāpi  nāma kaṇikārapupphaṃ pītaṃ pītavaṇṇaṃ pītanidassanaṃ pītanibhāsaṃ (Mahāvaggapāḷi)
+Percentage:	9		 seyyathāpi nāma bandhujīvakapupphaṃ lohitakaṃ  lohitakavaṇṇaṃ lohitakanidassanaṃ lohitakanibhāsaṃ (Mahāvaggapāḷi)
+Percentage:	9		 seyyathāpi, rājañña, kassako bījanaṅgalaṃ ādāya vanaṃ  paviseyya (Mahāvaggapāḷi)
+Percentage:	9		 seyyathāpi, rājañña,  kassako bījanaṅgalaṃ ādāya vanaṃ paviseyya (Mahāvaggapāḷi)
+Percentage:	8		 seyyathāpi nāma gokāṇā pariyantacārinī antamantāneva  sevati (Pāthikavaggapāḷi)
+Percentage:	6		 seyyathāpi tvaṃ etarahi  sācariyako (Pāthikavaggapāḷi)
+Percentage:	8		  itibhavābhavakathaṃ iti vā, seyyathāpāhaṃ etarahi sācariyako (Pāthikavaggapāḷi)
+Percentage:	7		 seyyathāpi nāma  ahicchattako, evameva pāturahosi (Pāthikavaggapāḷi)
+Percentage:	9		 seyyathāpi nāma khuddamadhuṃ aneḷakaṃ,  evamassādo  ahosi (Pāthikavaggapāḷi)
+Percentage:	8		 seyyathāpi nāma  khuddamadhuṃ aneḷakaṃ, evamassādā ahosi (Pāthikavaggapāḷi)
+Percentage:	7		  pathaviyāpi ummujjanimujjaṃ karoti, seyyathāpi udake (Pāthikavaggapāḷi)
+Percentage:	7		 udakepi  abhijjamāne gacchati, seyyathāpi pathaviyaṃ (Pāthikavaggapāḷi)
+Percentage:	8		 ākāsepi pallaṅkena  kamati, seyyathāpi pakkhī sakuṇo (Pāthikavaggapāḷi)
+Percentage:	8		 seyyathāpi, mārisa,  rañño māgadhassa vijite mahācorā (Pāthikavaggapāḷi)
+Percentage:	8		 seyyathāpi, mārisa, rañño māgadhassa  vijite mahācorā (Pāthikavaggapāḷi)
+Percentage:	10		
+ ``santāvuso, sattā nānattakāyā ekattasaññino seyyathāpi devā  brahmakāyikā paṭhamābhinibbattā (Pāthikavaggapāḷi)
+Percentage:	9		
+ ``santāvuso, sattā ekattakāyā nānattasaññino seyyathāpi devā  ābhassarā (Pāthikavaggapāḷi)
+Percentage:	9		
+ ``santāvuso, sattā ekattakāyā ekattasaññino seyyathāpi devā  subhakiṇhā (Pāthikavaggapāḷi)
+Percentage:	10		
+ ``santāvuso, sattā nānattakāyā ekattasaññino, seyyathāpi  devā brahmakāyikā paṭhamābhinibbattā (Pāthikavaggapāḷi)
+Percentage:	9		
+ ``santāvuso, sattā ekattakāyā nānattasaññino, seyyathāpi  devā ābhassarā (Pāthikavaggapāḷi)
+Percentage:	10		
+ ``santāvuso , sattā ekattakāyā ekattasaññino, seyyathāpi  devā subhakiṇhā (Pāthikavaggapāḷi)
+Percentage:	10		 tirokuṭṭaṃ tiropākāraṃ tiropabbataṃ asajjamāno gacchati  seyyathāpi ākāse  (Pāthikavaggapāḷi)
+Percentage:	7		 pathaviyāpi ummujjanimujjaṃ karoti seyyathāpi  udake (Pāthikavaggapāḷi)
+Percentage:	6		 udakepi abhijjamāne gacchati seyyathāpi pathaviyaṃ (Pāthikavaggapāḷi)
+Percentage:	8		  ākāsepi pallaṅkena kamati seyyathāpi pakkhī sakuṇo (Pāthikavaggapāḷi)
+Percentage:	9		
+ ``santāvuso, sattā ekattakāyā nānattasaññino, seyyathāpi  devā ābhassarā (Pāthikavaggapāḷi)
+Percentage:	9		
+ ``santāvuso, sattā ekattakāyā ekattasaññino, seyyathāpi  devā subhakiṇhā (Pāthikavaggapāḷi)
+Percentage:	9		 seyyathāpi nāma  umāpupphaṃ nīlaṃ nīlavaṇṇaṃ nīlanidassanaṃ nīlanibhāsaṃ (Pāthikavaggapāḷi)
+Percentage:	9		 seyyathāpi nāma  kaṇikārapupphaṃ pītaṃ pītavaṇṇaṃ pītanidassanaṃ pītanibhāsaṃ (Pāthikavaggapāḷi)
+Percentage:	10		
+ ``santāvuso, sattā ekattakāyā  nānattasaññino, seyyathāpi  devā ābhassarā (Pāthikavaggapāḷi)
+Percentage:	9		
+ ``santāvuso, sattā ekattakāyā ekattasaññino, seyyathāpi  devā subhakiṇhā (Pāthikavaggapāḷi)
+Percentage:	9		
+ ``santāvuso, sattā asaññino appaṭisaṃvedino, seyyathāpi  devā asaññasattā (Pāthikavaggapāḷi)
+Percentage:	8		 seyyathāpi, sāriputta, gūthakūpo sādhikaporiso,  pūro gūthassa (Mūlapaṇṇāsapāḷi)
+Percentage:	8		 tadāpi  etaparamoyeva kolo ahosi seyyathāpi etarahi (Mūlapaṇṇāsapāḷi)
+Percentage:	10		 tadāpi  etaparamoyeva taṇḍulo ahosi , seyyathāpi  etarahi (Mūlapaṇṇāsapāḷi)
+Percentage:	9		 ``seyyathāpi, bhikkhave, araññe pavane mahantaṃ  ninnaṃ pallalaṃ (Mūlapaṇṇāsapāḷi)
+Percentage:	6		 seyyathāpi, bhikkhave, puriso sīghaṃ gaccheyya (Mūlapaṇṇāsapāḷi)
+Percentage:	9		 ``seyyathāpi, bhikkhave, puriso āgaccheyya  ādittaṃ tiṇukkaṃ ādāya (Mūlapaṇṇāsapāḷi)
+Percentage:	9		
+ ``seyyathāpi, bhikkhave, puriso alagaddatthiko alagaddagavesī  alagaddapariyesanaṃ caramāno (Mūlapaṇṇāsapāḷi)
+Percentage:	9		
+ ``seyyathāpi, bhikkhave, puriso alagaddatthiko alagaddagavesī  alagaddapariyesanaṃ caramāno (Mūlapaṇṇāsapāḷi)
+Percentage:	10		 bhagavā etadavoca -- ``seyyathāpi , bhikkhave, puriso  addhānamaggappaṭipanno (Mūlapaṇṇāsapāḷi)
+Percentage:	9		  `seyyathāpi, bhikkhave, āraññako mago baddho pāsarāsiṃ adhisayeyya (Mūlapaṇṇāsapāḷi)
+Percentage:	10		
+ ``seyyathāpi , bhikkhave, āraññako mago abaddho pāsarāsiṃ  adhisayeyya (Mūlapaṇṇāsapāḷi)
+Percentage:	7		 ``seyyathāpi, brāhmaṇa, nāgavaniko nāgavanaṃ  paviseyya (Mūlapaṇṇāsapāḷi)
+Percentage:	7		  seyyathāpi, āvuso sāriputta, cakkhumā puriso (Mūlapaṇṇāsapāḷi)
+Percentage:	10		  ``seyyathāpi, bhante, gāmassa vā nigamassa vā avidūre pokkharaṇī (Mūlapaṇṇāsapāḷi)
+Percentage:	9		 seyyathāpi, aggivessana,  allaṃ kaṭṭhaṃ sasnehaṃ udake nikkhittaṃ (Mūlapaṇṇāsapāḷi)
+Percentage:	10		 seyyathāpi nāma oṭṭhapadaṃ, evamevassu me  ānisadaṃ hoti tāyevappāhāratāya (Mūlapaṇṇāsapāḷi)
+Percentage:	10		 ``seyyathāpi , bhikkhave, puriso iṇaṃ ādāya  kammante payojeyya (Mūlapaṇṇāsapāḷi)
+Percentage:	7		
+ ``seyyathāpi, bhikkhave, puriso bandhanāgāre baddho assa (Mūlapaṇṇāsapāḷi)
+Percentage:	9		 seyyathāpi, bhikkhave, matajaṃ nāma āvudhajātaṃ ubhatodhāraṃ  pītanisitaṃ (Mūlapaṇṇāsapāḷi)
+Percentage:	9		 seyyathāpi, bhikkhave, gimhānaṃ pacchime  māse māluvāsipāṭikā phaleyya (Mūlapaṇṇāsapāḷi)
+Percentage:	7		 ``seyyathāpi, bhikkhave, tittakālābu visena  saṃsaṭṭho (Mūlapaṇṇāsapāḷi)
+Percentage:	8		 ``seyyathāpi, bhikkhave, āpānīyakaṃso  vaṇṇasampanno gandhasampanno rasasampanno (Mūlapaṇṇāsapāḷi)
+Percentage:	7		 ``seyyathāpi, bhikkhave, pūtimuttaṃ  nānābhesajjehi saṃsaṭṭhaṃ (Mūlapaṇṇāsapāḷi)
+Percentage:	10		 tassa mayhaṃ, pāpima, evarūpo kāyo  hoti, seyyathāpi manussassa (Mūlapaṇṇāsapāḷi)
+Percentage:	7		 evarūpaṃ sīsaṃ hoti, seyyathāpi  macchassa (Mūlapaṇṇāsapāḷi)
+Percentage:	10		 ``seyyathāpi , gahapati, kukkuro  jighacchādubbalyapareto goghātakasūnaṃ paccupaṭṭhito assa (Majjhimapaṇṇāsapāḷi)
+Percentage:	10		 ``seyyathāpi, gahapati, puriso ādittaṃ tiṇukkaṃ  ādāya paṭivātaṃ gaccheyya (Majjhimapaṇṇāsapāḷi)
+Percentage:	10		 seyyathāpi, mālukyaputta, puriso  sallena viddho assa savisena gāḷhapalepanena (Majjhimapaṇṇāsapāḷi)
+Percentage:	8		
+ ``seyyathāpi, rājakumāra, allaṃ kaṭṭhaṃ sasnehaṃ udake nikkhittaṃ (Majjhimapaṇṇāsapāḷi)
+Percentage:	10		 seyyathāpi  nāma oṭṭhapadaṃ, evamevassu me ānisadaṃ hoti tāyevappāhāratāya (Majjhimapaṇṇāsapāḷi)
+Percentage:	9		 ``seyyathāpi,  brāhmaṇa, puriso daliddo  assako anāḷhiyo (Majjhimapaṇṇāsapāḷi)
+Percentage:	8		
+ ``seyyathāpi, bhāradvāja, allaṃ kaṭṭhaṃ sasnehaṃ udake nikkhittaṃ (Majjhimapaṇṇāsapāḷi)
+Percentage:	10		
+ ``seyyathāpi, sunakkhatta, puriso sallena viddho assa  savisena gāḷhūpalepanena (Uparipaṇṇāsapāḷi)
+Percentage:	10		
+ ``seyyathāpi, sunakkhatta, puriso sallena viddho assa  savisena gāḷhūpalepanena (Uparipaṇṇāsapāḷi)
+Percentage:	10		 seyyathāpi, gahapati, puriso  sambahulāni telappadīpāni ekaṃ gharaṃ paveseyya (Uparipaṇṇāsapāḷi)
+Percentage:	9		 seyyathāpi nāma mahāariṭṭhako maṇi, evamassa  sīsaṃ hoti (Sagāthāvaggapāḷi)
+Percentage:	8		 seyyathāpi nāma suddhaṃ rūpiyaṃ, evamassa dantā honti (Sagāthāvaggapāḷi)
+Percentage:	10		 seyyathāpi nāma mahatī ekarukkhikā nāvā,  evamassa kāyo hoti (Sagāthāvaggapāḷi)
+Percentage:	9		 seyyathāpi nāma mahantaṃ soṇḍikākiḷañjaṃ,  evamassa phaṇo hoti (Sagāthāvaggapāḷi)
+Percentage:	10		 seyyathāpi nāma mahatī kosalikā  kaṃsapāti, evamassa akkhīni bhavanti (Sagāthāvaggapāḷi)
+Percentage:	10		
+ ``seyyathāpi, bhante, gāmassa vā nigamassa vā avidūre  pokkharaṇī (Sagāthāvaggapāḷi)
+Percentage:	8		 disvāna --  seyyathāpi nāma balavā puriso (Sagāthāvaggapāḷi)
+Percentage:	8		  disvāna -- seyyathāpi nāma balavā puriso (Sagāthāvaggapāḷi)
+Percentage:	8		 disvāna -- seyyathāpi nāma  balavā puriso (Sagāthāvaggapāḷi)
+Percentage:	9		 seyyathāpi, bhikkhu, vīsati abbudā  nirayā, evameko nirabbudanirayo (Sagāthāvaggapāḷi)
+Percentage:	10		 seyyathāpi, bhikkhu, vīsati  nirabbudā nirayā, evameko ababo nirayo (Sagāthāvaggapāḷi)
+Percentage:	10		  seyyathāpi, bhikkhu, vīsati aṭaṭā nirayā, evameko ahaho nirayo (Sagāthāvaggapāḷi)
+Percentage:	10		 seyyathāpi, bhikkhu, vīsati kumudā nirayā, evameko  sogandhiko nirayo (Sagāthāvaggapāḷi)
+Percentage:	9		 seyyathāpi, bhikkhu, vīsati sogandhikā  nirayā, evameko uppalanirayo (Sagāthāvaggapāḷi)
+Percentage:	10		 seyyathāpi, bhikkhu, vīsati  uppalā nirayā, evameko puṇḍariko nirayo (Sagāthāvaggapāḷi)
+Percentage:	9		
+ ``seyyathāpi, bhikkhave, telañca paṭicca vaṭṭiñca paṭicca telappadīpo jhāyeyya (Nidānavaggo)
+Percentage:	10		 ``seyyathāpi, bhikkhave, telañca  paṭicca vaṭṭiñca paṭicca telappadīpo jhāyeyya (Nidānavaggo)
+Percentage:	10		
+ ``seyyathāpi , bhikkhave, telañca paṭicca vaṭṭiñca paṭicca telappadīpo jhāyeyya (Nidānavaggo)
+Percentage:	4		
+ ``seyyathāpi, bhikkhave, mahārukkho (Nidānavaggo)
+Percentage:	4		
+ ``seyyathāpi, bhikkhave, mahārukkho (Nidānavaggo)
+Percentage:	4		 ``seyyathāpi, bhikkhave, mahārukkho (Nidānavaggo)
+Percentage:	4		
+ ``seyyathāpi, bhikkhave, mahārukkho (Nidānavaggo)
+Percentage:	5		
+ ``seyyathāpi, bhikkhave, taruṇo rukkho (Nidānavaggo)
+Percentage:	6		
+ ``seyyathāpi , bhikkhave, taruṇo rukkho (Nidānavaggo)
+Percentage:	4		
+ ``seyyathāpi, bhikkhave, mahārukkho (Nidānavaggo)
+Percentage:	6		
+ ``seyyathāpi  , bhikkhave, mahārukkho (Nidānavaggo)
+Percentage:	4		
+ ``seyyathāpi, bhikkhave, mahārukkho (Nidānavaggo)
+Percentage:	4		
+ ``seyyathāpi, bhikkhave, mahārukkho (Nidānavaggo)
+Percentage:	4		
+ ``seyyathāpi, ānanda, mahārukkho (Nidānavaggo)
+Percentage:	5		
+ ``seyyathāpi , ānanda, mahārukkho (Nidānavaggo)
+Percentage:	9		
+ ``seyyathāpi , bhikkhave, āpānīyakaṃso vaṇṇasampanno gandhasampanno  rasasampanno (Nidānavaggo)
+Percentage:	7		
+ ``seyyathāpi, bhikkhave, āpānīyakaṃso vaṇṇasampanno gandhasampanno rasasampanno (Nidānavaggo)
+Percentage:	9		 seyyathāpi,  āvuso, dve naḷakalāpiyo aññamaññaṃ nissāya tiṭṭheyyuṃ (Nidānavaggo)
+Percentage:	7		  seyyathāpi, āvuso, kantāramagge  udapāno (Nidānavaggo)
+Percentage:	8		 seyyathāpi, bhikkhave, dīghalomikā eḷakā  kaṇṭakagahanaṃ paviseyya (Nidānavaggo)
+Percentage:	8		 seyyathāpi, bhikkhave, mīḷhakā gūthādī gūthapūrā puṇṇā gūthassa (Nidānavaggo)
+Percentage:	6		 ``seyyathāpi, bhikkhave, satti  tiṇhaphalā (Nidānavaggo)
+Percentage:	9		  ``seyyathāpi, bhikkhave, pathavīdhātu, evaṃ catasso viññāṇaṭṭhitiyo daṭṭhabbā (Khandhavaggo)
+Percentage:	8		 seyyathāpi,  bhikkhave, āpodhātu, evaṃ nandirāgo daṭṭhabbo (Khandhavaggo)
+Percentage:	10		 seyyathāpi, bhikkhave, pañca bījajātāni, evaṃ  viññāṇaṃ sāhāraṃ daṭṭhabbaṃ'' (Khandhavaggo)
+Percentage:	10		
+ ``seyyathāpi, āvuso, uppalassa vā padumassa vā puṇḍarīkassa vā gandho (Khandhavaggo)
+Percentage:	7		
+ ``seyyathāpi , āvuso, vatthaṃ saṃkiliṭṭhaṃ malaggahitaṃ (Khandhavaggo)
+Percentage:	9		 ``seyyathāpi, bhikkhave, nadī pabbateyyā ohārinī  dūraṅgamā sīghasotā (Khandhavaggo)
+Percentage:	9		
+ ``seyyathāpi, rādha, kumārakā vā kumārikāyo vā paṃsvāgārakehi kīḷanti (Khandhavaggo)
+Percentage:	5		 seyyathāpi, bhikkhave, gavā khīraṃ (Khandhavaggo)
+Percentage:	6		 seyyathāpi,  bhikkhave, gavā khīraṃ (Khandhavaggo)
+Percentage:	5		 seyyathāpi, bhikkhave, gavā khīraṃ (Khandhavaggo)
+Percentage:	6		 seyyathāpi, bhikkhave, gavā  khīraṃ (Khandhavaggo)
+Percentage:	6		 seyyathāpi, bhikkhave, gavā  khīraṃ (Khandhavaggo)
+Percentage:	5		 seyyathāpi, bhikkhave, gavā khīraṃ (Khandhavaggo)
+Percentage:	5		 seyyathāpi, bhikkhave, gavā khīraṃ (Khandhavaggo)
+Percentage:	6		 seyyathāpi, bhikkhave, gavā  khīraṃ (Khandhavaggo)
+Percentage:	5		 seyyathāpi, bhikkhave, gavā khīraṃ (Khandhavaggo)
+Percentage:	8		 purāyaṃ kāyo idheva vikirati; seyyathāpi  bhusamuṭṭhī''ti (Saḷāyatanavaggo)
+Percentage:	7		 purāyaṃ kāyo idheva vikirati; seyyathāpi bhusamuṭṭhī'''ti (Saḷāyatanavaggo)
+Percentage:	7		 seyyathāpi,  bhikkhave, yaṃ imasmiṃ jetavane (Saḷāyatanavaggo)
+Percentage:	8		 ``seyyathāpi , bhikkhave, cattāro āsīvisā uggatejā ghoravisā (Saḷāyatanavaggo)
+Percentage:	10		
+ ``seyyathāpi, āvuso, naḷāgāraṃ vā tiṇāgāraṃ vā sukkhaṃ kolāpaṃ terovassikaṃ (Saḷāyatanavaggo)
+Percentage:	10		 seyyathāpi, bhikkhave,  aṅgārakāsu sādhikaporisā puṇṇā aṅgārānaṃ vītaccikānaṃ vītadhūmānaṃ (Saḷāyatanavaggo)
+Percentage:	10		
+ ``seyyathāpi , bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā  pācīnapabbhārā (Saḷāyatanavaggo)
+Percentage:	5		
+ ``seyyathāpi, bhikkhave, kiṭṭhaṃ sampannaṃ (Saḷāyatanavaggo)
+Percentage:	8		 ``seyyathāpi, bhikkhave, puriso arugatto pakkagatto saravanaṃ paviseyya (Saḷāyatanavaggo)
+Percentage:	10		 ``seyyathāpi  , bhikkhave, yavakalāpī  cātumahāpathe nikkhittā assa (Saḷāyatanavaggo)
+Percentage:	7		
+ ``seyyathāpi , bhikkhave, purisaṃ sallena vijjheyya (Saḷāyatanavaggo)
+Percentage:	7		 ``seyyathāpi, bhikkhave, ākāse vividhā vātā vāyanti (Saḷāyatanavaggo)
+Percentage:	9		 ``seyyathāpi , bhikkhave, ākāse vividhā vātā  vāyanti (Saḷāyatanavaggo)
+Percentage:	4		 ``seyyathāpi, bhikkhave, āgantukāgāraṃ (Saḷāyatanavaggo)
+Percentage:	10		
+ ``seyyathāpi, gāmaṇi, yaṃ aduṃ khettaṃ aggaṃ; evameva mayhaṃ bhikkhubhikkhuniyo (Saḷāyatanavaggo)
+Percentage:	8		 ``seyyathāpi, bhikkhave, rukkho pācīnaninno  pācīnapoṇo pācīnapabbhāro (Mahāvaggo)
+Percentage:	4		 ``seyyathāpi, bhikkhave, āgantukāgāraṃ (Mahāvaggo)
+Percentage:	9		 ``seyyathāpi, bhikkhave, gaṅgā nadī  pācīnaninnā pācīnapoṇā pācīnapabbhārā (Mahāvaggo)
+Percentage:	9		
+ ``seyyathāpi, bhikkhave, puriso parittaṃ aggiṃ ujjāletukāmo  assa (Mahāvaggo)
+Percentage:	9		
+ ``seyyathāpi, bhikkhave, puriso parittaṃ aggiṃ ujjāletukāmo  assa (Mahāvaggo)
+Percentage:	5		
+ ``seyyathāpi, brāhmaṇa, udapatto sevālapaṇakapariyonaddho (Mahāvaggo)
+Percentage:	9		
+ ``seyyathāpi, brāhmaṇa, udapatto vāterito calito bhanto  ūmijāto (Mahāvaggo)
+Percentage:	10		
+ ``seyyathāpi, brāhmaṇa, udapatto āvilo luḷito kalalībhūto  andhakāre nikkhitto (Mahāvaggo)
+Percentage:	6		
+ ``seyyathāpi, brāhmaṇa, udapatto na sevālapaṇakapariyonaddho (Mahāvaggo)
+Percentage:	9		 ``seyyathāpi, bhikkhave, ye keci balakaraṇīyā  kammantā karīyanti (Mahāvaggo)
+Percentage:	7		 ``seyyathāpi, bhikkhave, puriso vassasatāyuko  vassasatajīvī (Mahāvaggo)
+Percentage:	6		
+ ``seyyathāpi, bhikkhave, silāyūpo soḷasa kukkuko (Mahāvaggo)
+Percentage:	9		 ``seyyathāpi , bhikkhave, ayaṃ  mahāpathavī ekodakā assa (Mahāvaggo)
+Percentage:	8		 ``seyyathāpi, bhikkhave, appamattakampi muttaṃ  duggandhaṃ hoti (Ekakanipātapāḷi)
+Percentage:	10		  seyyathāpi, bho gotama, nekkhaṃ {nikkhaṃ-itipi (ma0 ni0 3 (Tikanipātapāḷi)
+Percentage:	8		
+ ``seyyathāpi, bhikkhave, kassakassa gahapatissa sampannaṃ  sālikkhettaṃ (Tikanipātapāḷi)
+Percentage:	7		 seyyathāpi, bhikkhave,  jambālī  anekavassagaṇikā (Catukkanipātapāḷi)
+Percentage:	6		 seyyathāpi, bhikkhave,  jambālī anekavassagaṇikā (Catukkanipātapāḷi)
+Percentage:	6		 seyyathāpi, bhikkhave, puriso kusalo bherisaddassa (Catukkanipātapāḷi)
+Percentage:	7		 seyyathāpi, bhikkhave, puriso  kusalo saṅkhasaddassa (Catukkanipātapāḷi)
+Percentage:	7		
+ ``seyyathāpi, vappa, thūṇaṃ paṭicca chāyā paññāyati (Catukkanipātapāḷi)
+Percentage:	7		  seyyathāpi , bhikkhave, rukkho sākhāpalāsavipanno (Pañcakanipātapāḷi)
+Percentage:	6		 seyyathāpi, bhikkhave, rukkho  sākhāpalāsasampanno (Pañcakanipātapāḷi)
+Percentage:	9		 seyyathāpi, bhikkhave, nadī pabbateyyā dūraṅgamā  sīghasotā hārahārinī (Pañcakanipātapāḷi)
+Percentage:	5		 seyyathāpi, āvuso, rukkho sākhāpalāsavipanno (Pañcakanipātapāḷi)
+Percentage:	6		 seyyathāpi, āvuso, rukkho,  sākhāpalāsasampanno (Pañcakanipātapāḷi)
+Percentage:	6		  seyyathāpi, brāhmaṇa, udapatto sevālapaṇakapariyonaddho (Pañcakanipātapāḷi)
+Percentage:	9		 seyyathāpi, brāhmaṇa, udapatto agginā  asantatto anukkudhito anussadakajāto (Pañcakanipātapāḷi)
+Percentage:	8		   seyyathāpi, brāhmaṇa, udapatto na sevālapaṇakapariyonaddho (Pañcakanipātapāḷi)
+Percentage:	10		 seyyathāpi, brāhmaṇa, udapatto  accho vippasanno anāvilo āloke nikkhitto (Pañcakanipātapāḷi)
+Percentage:	8		
+ ``seyyathāpi, bho, puriso jighacchādubbalyapareto madhupiṇḍikaṃ  adhigaccheyya (Pañcakanipātapāḷi)
+Percentage:	8		
+ ``seyyathāpi, bho, puriso ābādhiko dukkhito  bāḷhagilāno (Pañcakanipātapāḷi)
+Percentage:	6		  seyyathāpi, bhikkhave, rukkho sākhāpalāsavipanno (Chakkanipātapāḷi)
+Percentage:	6		  seyyathāpi, bhikkhave, rukkho sākhāpalāsasampanno (Chakkanipātapāḷi)
+Percentage:	9		 seyyathāpi,  bhante, selo pabbato acchiddo asusiro ekagghano (Chakkanipātapāḷi)
+Percentage:	3		 seyyathāpi 3 (Chakkanipātapāḷi)
+Percentage:	9		
+ ``seyyathāpi, ānanda, gūthakūpo sādhikaporiso pūro gūthassa  samatittiko (Chakkanipātapāḷi)
+Percentage:	10		
+ ``santi, bhikkhave, sattā ekattakāyā ekattasaññino,  seyyathāpi devā subhakiṇhā (Sattakanipātapāḷi)
+Percentage:	3		 seyyathāpi bhikkhave (Sattakanipātapāḷi)
+Percentage:	6		 seyyathāpi, bhikkhave, rukkho  sākhāpalāsavipanno (Sattakanipātapāḷi)
+Percentage:	6		 seyyathāpi, bhikkhave, rukkho  sākhāpalāsasampanno (Sattakanipātapāḷi)
+Percentage:	9		 seyyathāpi nāma puriso suvaṇṇanikkhaṃ  adhigaccheyya parisuddhaṃ pariyodātaṃ (Sattakanipātapāḷi)
+Percentage:	9		 seyyathāpi nāma puriso  suvaṇṇanikkhaṃ adhigaccheyya parisuddhaṃ pariyodātaṃ (Sattakanipātapāḷi)
+Percentage:	10		
+ ``seyyathāpi, devānaminda, gāmassa vā nigamassa vā avidūre  mahādhaññarāsi (Aṭṭhakanipātapāḷi)
+Percentage:	6		 seyyathāpi, bhikkhave, rukkho  sākhāpalāsavipanno (Aṭṭhakanipātapāḷi)
+Percentage:	6		 seyyathāpi, bhikkhave,  rukkho sākhāpalāsasampanno (Aṭṭhakanipātapāḷi)
+Percentage:	7		 seyyathāpi, nandaka, pāṇako  catuppādako assa (Navakanipātapāḷi)
+Percentage:	10		
+ ``seyyathāpi, bhante, āpasmiṃ sucimpi dhovanti asucimpi  dhovanti gūthagatampi (Navakanipātapāḷi)
+Percentage:	10		
+ ``seyyathāpi, bhante, tejo sucimpi ḍahati asucimpi ḍahati  gūthagatampi (Navakanipātapāḷi)
+Percentage:	10		
+ ``seyyathāpi, bhante, vāyo sucimpi upavāyati asucimpi  upavāyati gūthagatampi (Navakanipātapāḷi)
+Percentage:	6		 ``seyyathāpi, bhikkhave, gaṇḍo  anekavassagaṇiko (Navakanipātapāḷi)
+Percentage:	10		
+ ``santi, bhikkhave, sattā ekattakāyā ekattasaññino,  seyyathāpi devā subhakiṇhā (Navakanipātapāḷi)
+Percentage:	10		
+ ``santi, bhikkhave, sattā asaññino appaṭisaṃvedino,  seyyathāpi devā asaññasattā (Navakanipātapāḷi)
+Percentage:	5		
+ ``seyyathāpi, āvuso, silāyūpo soḷasakukkuko (Navakanipātapāḷi)
+Percentage:	6		  seyyathāpi, bhikkhave, rukkho sākhāpalāsavipanno (Dasakanipātapāḷi)
+Percentage:	6		 seyyathāpi, bhikkhave, rukkho  sākhāpalāsasampanno (Dasakanipātapāḷi)
+Percentage:	6		 seyyathāpi, āvuso,  rukkho sākhāpalāsavipanno (Dasakanipātapāḷi)
+Percentage:	6		 seyyathāpi,  āvuso, rukkho sākhāpalāsasampanno (Dasakanipātapāḷi)
+Percentage:	6		  seyyathāpi, āvuso, rukkho sākhāpalāsavipanno (Dasakanipātapāḷi)
+Percentage:	7		  seyyathāpi, āvuso, rukkho sākhāpalāsasampanno  (Dasakanipātapāḷi)
+Percentage:	8		 seyyathāpi,  bhikkhave, ādittacelo vā ādittasīso vā (Dasakanipātapāḷi)
+Percentage:	8		  seyyathāpi, āvuso, ādittacelo vā ādittasīso vā (Dasakanipātapāḷi)
+Percentage:	8		  seyyathāpi, bhikkhave, ādittacelo vā ādittasīso vā (Dasakanipātapāḷi)
+Percentage:	7		 seyyathāpi, bhikkhave, ādittacelo vā ādittasīso vā (Dasakanipātapāḷi)
+Percentage:	7		 seyyathāpi, āvuso, ādittacelo vā ādittasīso vā (Dasakanipātapāḷi)
+Percentage:	8		 seyyathāpi, āvuso, ādittacelo vā  ādittasīso vā (Dasakanipātapāḷi)
+Percentage:	10		 seyyathāpi, bhikkhu, vīsati nirabbudā nirayā, evameko  ababo nirayo (Dasakanipātapāḷi)
+Percentage:	10		 seyyathāpi, bhikkhu, vīsati ababā nirayā,  evameko aṭaṭo nirayo (Dasakanipātapāḷi)
+Percentage:	10		 seyyathāpi, bhikkhu, vīsati aṭaṭā  nirayā, evameko ahaho nirayo (Dasakanipātapāḷi)
+Percentage:	10		 seyyathāpi, bhikkhu, vīsati  ahahā nirayā, evameko kumudo nirayo (Dasakanipātapāḷi)
+Percentage:	10		 seyyathāpi, bhikkhu,  vīsati kumudā nirayā, evameko sogandhiko nirayo (Dasakanipātapāḷi)
+Percentage:	10		 seyyathāpi,  bhikkhu, vīsati sogandhikā nirayā, evameko uppalako nirayo (Dasakanipātapāḷi)
+Percentage:	10		 seyyathāpi, bhikkhu, vīsati puṇḍarīkā nirayā, evameko  padumo nirayo (Dasakanipātapāḷi)
+Percentage:	4		
+ ``seyyathāpi, upāli, mahāudakarahado (Dasakanipātapāḷi)
+Percentage:	5		
+ ``seyyathāpi, bhikkhave, rukkho sākhāpalāsavipanno (Ekādasakanipātapāḷi)
+Percentage:	5		
+ ``seyyathāpi, bhikkhave, rukkho sākhāpalāsasampanno (Ekādasakanipātapāḷi)
+Percentage:	5		
+ ``seyyathāpi, āvuso, rukkho sākhāpalāsavipanno (Ekādasakanipātapāḷi)
+Percentage:	5		
+ ``seyyathāpi, āvuso, rukkho sākhāpalāsasampanno (Ekādasakanipātapāḷi)
+Percentage:	5		
+ ``seyyathāpi, āvuso, rukkho sākhāpalāsavipanno (Ekādasakanipātapāḷi)
+Percentage:	5		
+ ``seyyathāpi, āvuso, rukkho sākhāpalāsasampanno (Ekādasakanipātapāḷi)
+Percentage:	7		 seyyathāpi, bhante, purisassa agāraṃ ekādasa dvāraṃ (Ekādasakanipātapāḷi)
+Percentage:	10		 seyyathāpi, bhikkhu, vīsati abbudā nirayā  evameko nirabbudo nirayo (Suttanipātapāḷi)
+Percentage:	10		 seyyathāpi, bhikkhu, vīsati nirabbudā  nirayā evameko ababo nirayo (Suttanipātapāḷi)
+Percentage:	10		 seyyathāpi, bhikkhu, vīsati  ababā nirayā evameko ahaho nirayo (Suttanipātapāḷi)
+Percentage:	10		 seyyathāpi, bhikkhu,  vīsati ahahā nirayā evameko aṭaṭo nirayo (Suttanipātapāḷi)
+Percentage:	10		 seyyathāpi, bhikkhu,  vīsati aṭaṭā nirayā evameko kumudo nirayo (Suttanipātapāḷi)
+Percentage:	10		 seyyathāpi,  bhikkhu, vīsati kumudā nirayā evameko sogandhiko nirayo (Suttanipātapāḷi)
+Percentage:	10		 seyyathāpi, bhikkhu, vīsati uppalakā nirayā evameko  puṇḍarīko nirayo (Suttanipātapāḷi)
+Percentage:	10		 seyyathāpi, bhikkhu, vīsati puṇḍarīkā nirayā  evameko padumo nirayo (Suttanipātapāḷi)
+Percentage:	10		
+ ``santi, bhikkhave, sattā ekattakāyā nānattasaññino,  seyyathāpi devā ābhassarā (Cūḷaniddesa)
+Percentage:	6		  seyyathāpi rukkho chāyāsampanno assa (Paṭisambhidāmagga)
+Percentage:	6		  seyyathāpi pupphaṃ gandhasampannaṃ assa (Paṭisambhidāmagga)
+Percentage:	7		  seyyathāpi maṇi karaṇḍake pakkhitto assa (Paṭisambhidāmagga)
+Percentage:	6		 seyyathāpi rukkho  chāyāsampanno assa (Paṭisambhidāmagga)
+Percentage:	6		 seyyathāpi pupphaṃ  gandhasampannaṃ assa (Paṭisambhidāmagga)
+Percentage:	7		  seyyathāpi maṇi karaṇḍake pakkhitto assa (Paṭisambhidāmagga)
+Percentage:	5		 seyyathāpi rukkho chāyāsampanno assa (Paṭisambhidāmagga)
+Percentage:	6		 seyyathāpi pupphaṃ  gandhasampannaṃ assa (Paṭisambhidāmagga)
+Percentage:	6		 seyyathāpi maṇi karaṇḍake pakkhitto assa (Paṭisambhidāmagga)
+Percentage:	5		 seyyathāpi rukkho chāyāsampanno assa (Paṭisambhidāmagga)
+Percentage:	5		 seyyathāpi pupphaṃ gandhasampannaṃ assa (Paṭisambhidāmagga)
+Percentage:	7		  seyyathāpi maṇi karaṇḍake pakkhitto assa (Paṭisambhidāmagga)
+Percentage:	5		 seyyathāpi rukkho chāyāsampanno assa (Paṭisambhidāmagga)
+Percentage:	6		 seyyathāpi  pupphaṃ gandhasampannaṃ assa (Paṭisambhidāmagga)
+Percentage:	7		 seyyathāpi maṇi karaṇḍake  pakkhitto assa (Paṭisambhidāmagga)
+Percentage:	5		  seyyathāpi telappadīpassa jhāyato (Paṭisambhidāmagga)
+Percentage:	6		  seyyathāpi rukkho chāyāsampanno assa (Paṭisambhidāmagga)
+Percentage:	5		  seyyathāpi telappadīpassa jhāyato (Paṭisambhidāmagga)
+Percentage:	6		 pathaviyāpi ummujjanimujjaṃ karoti, seyyathāpi udake (Paṭisambhidāmagga)
+Percentage:	8		 ākāsepi  pallaṅkena kamati, seyyathāpi pakkhī sakuṇo (Paṭisambhidāmagga)
+Percentage:	8		  seyyathāpi puriso muñjamhā īsikaṃ  pavāheyya (Paṭisambhidāmagga)
+Percentage:	9		 seyyathā vā pana puriso asiṃ  kosiyā pavāheyya (Paṭisambhidāmagga)
+Percentage:	9		  seyyathā vā pana puriso ahiṃ karaṇḍā uddhareyya (Paṭisambhidāmagga)
+Percentage:	9		  yathā kathaṃ viya? seyyathāpi taruṇo rukkho ajātaphalo (Paṭisambhidāmagga)
+Percentage:	9		 seyyathāpi, bhikkhave {passa saṃ0 ni0   2 (Nettippakaraṇa)
+Percentage:	10		 seyyathāpi, bhikkhu, vīsati ababā  nirayā, evameko aṭaṭo nirayo (Nettippakaraṇa)
+Percentage:	10		 seyyathāpi, bhikkhu, vīsati  aṭaṭā nirayā, evameko ahaho nirayo (Nettippakaraṇa)
+Percentage:	10		 seyyathāpi, bhikkhu,  vīsati ahahā nirayā, evameko kumudo nirayo (Nettippakaraṇa)
+Percentage:	10		 seyyathāpi,  bhikkhu, vīsati kumudā nirayā, evameko sogandhiko nirayo (Nettippakaraṇa)
+Percentage:	10		 seyyathāpi, bhikkhu, vīsati puṇḍarīkā nirayā,  evameko padumo nirayo (Nettippakaraṇa)
